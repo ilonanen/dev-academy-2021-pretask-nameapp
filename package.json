@@ -1,6 +1,5 @@
 {
   "name": "solita-dev-academy-2021",
-  "homepage": "https://still-ridge-44447.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +14,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "node server/server.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
