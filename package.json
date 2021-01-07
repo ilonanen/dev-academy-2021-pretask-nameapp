@@ -1,5 +1,6 @@
 {
   "name": "solita-dev-academy-2021",
+  "homepage": "https://still-ridge-44447.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
